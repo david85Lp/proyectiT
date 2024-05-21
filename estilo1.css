@@ -1,0 +1,95 @@
+body{
+    background: #fffae6;
+}h1{
+    color:rgb(14, 3, 43);
+    font-size: 50px;
+
+}
+h2{
+    color: rgb(89, 21, 247);
+
+}
+h3{
+    color: rgb(245, 9, 9);
+    font-size: 30px;
+}
+nav{
+    color: rgb(6, 75, 29);
+    font-size: 20px;
+}
+
+
+h4{
+    color: rgb(177, 238, 10);
+    font-size: 20px;
+    font-family:  "Bebas Neue", sans-serif;
+
+}
+h5{
+    color: rgb(141, 30, 48);
+    font-size: 30px;
+    
+}
+
+
+h6{
+    color: rgb(132, 173, 17);
+    font-size: 20px;
+    font-family:  "Bebas Neue", sans-serif;
+
+}
+button{
+    background-color: rgb(243, 243, 131);
+    padding: 15px  12px;
+    border-radius: 10px;
+    font-family: "Dancing Script", cursive;
+    
+}
+button2{
+    
+    background-color: rgb(203, 168, 243);
+    padding: 15px  12px;
+    border-radius: 10px;
+    margin: 4px 2px;
+    font-family: "Pacifico", cursive;
+}
+button3{
+    
+    background-color: rgb(18, 140, 156);
+    padding: 15px  12px;
+    border-radius: 17px;
+    margin: 4px 2px;
+    font-family: "Sedgwick Ave Display", cursive;
+}
+button4{
+    
+    background-color: rgb(231, 112, 182);
+    padding: 15px  12px;
+    border-radius: 17px;
+    margin: 4px 2px;
+    font-family: "Sedgwick Ave Display", cursive;
+}
+.texto1{
+    color: rgb(167, 26, 49);
+    font-family: "Briem Hand", cursive;
+    font-size: 20px;
+}
+
+.texto2{
+    
+    color: rgb(167, 26, 49);
+    font-family: "Briem Hand", cursive;
+    font-size: 20px;
+}.texto3{
+    
+    color: rgb(167, 26, 49);
+    font-family: "Briem Hand", cursive;
+    font-size: 20px;
+}
+
+.texto4{
+    
+    color: rgb(167, 26, 49); 
+    font-family: "Briem Hand", cursive;
+    font-size: 20px;
+}
